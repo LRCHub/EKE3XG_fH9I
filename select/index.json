@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "EMPIRE",
+  "base_artist": "Snow Man",
+  "createdAt": "2025-12-03T07:22:24.685191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empire Liquor Mart (9127 S. Figueroa St.)",
+      "artist": "Gabriel Kahane",
+      "has_synced": true,
+      "path": "select/01_Empire_Liquor_Mart_(9127_S._Figueroa_St.)_Gabriel_Kahane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Applause (Empire of the Sun Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/02_Applause_(Empire_of_the_Sun_Remix)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Applause (Empire of the Sun Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Applause_(Empire_of_the_Sun_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Empire State (Son House In Excelsis)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/04_Empire_State_(Son_House_In_Excelsis)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Empire Line",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/05_Empire_Line_The_National.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fake Empire",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/06_Fake_Empire_The_National.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy You're Gone (Live at the 02 Shepherd Bush Empire)",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/07_Happy_You're_Gone_(Live_at_the_02_Shepherd_Bush_Empire)_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speak In Tongues (Live at the 02 Shepherd Bush Empire)",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/08_Speak_In_Tongues_(Live_at_the_02_Shepherd_Bush_Empire)_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Never-Ending Why (Live at the 02 Shepherd Bush Empire)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/09_The_Never-Ending_Why_(Live_at_the_02_Shepherd_Bush_Empire)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Empire of the Clouds",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/10_Empire_of_the_Clouds_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Empire of the Undead (live from studio)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/11_Empire_of_the_Undead_(live_from_studio)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Empire State",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/12_Empire_State_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Man Vs. The Empire Brain Building",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/13_Man_Vs._The_Empire_Brain_Building_Was_(Not_Was).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EMPIRE",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_EMPIRE_Snow_Man.txt"
+    }
+  ]
+}
